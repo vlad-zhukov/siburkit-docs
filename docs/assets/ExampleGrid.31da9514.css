@@ -1,0 +1,1 @@
+._grid_1p8kv_1{display:grid;grid-template-columns:repeat(var(--_example-grid-cols, 1),1fr);gap:2px;margin:32px 0 8px;grid-auto-rows:var(--_example-grid-rows-height)}._grid_1p8kv_1>div{display:flex;flex-direction:column;align-items:flex-start;padding:28px 32px;background:var(--sk-base-high-contrast-background-color)}

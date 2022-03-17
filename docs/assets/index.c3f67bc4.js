@@ -1,1 +1,0 @@
-import{B as t,d as e,e as o}from"./index.c4a1c1ef.js";var r=Object.freeze({__proto__:null,[Symbol.toStringTag]:"Module",Button:t,get ButtonKind(){return e},get ButtonSize(){return o}});export{r as _};

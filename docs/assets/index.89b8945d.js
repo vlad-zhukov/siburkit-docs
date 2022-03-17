@@ -1,0 +1,1 @@
+import{b as e,T as a,a as t,E as r,H as s,c as i}from"./index.e3aa6b11.js";var g=Object.freeze(Object.defineProperty({__proto__:null,Heading:e,Text:a,get TextSize(){return t},EditableHeading:r,HintMessage:s,ErrorMessage:i},Symbol.toStringTag,{value:"Module"}));export{g as _};

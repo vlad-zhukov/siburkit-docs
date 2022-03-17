@@ -1,1 +1,0 @@
-import{d as r}from"./vendor.bc6f4b6e.js";const c="_wrapper_aq66c_1",i="_img_aq66c_9";var a={wrapper:c,img:i};function p({src:e,alt:s}){return r("div",{className:a.wrapper,children:r("img",{src:e,alt:s,decoding:"async",className:a.img})})}export{p as I};

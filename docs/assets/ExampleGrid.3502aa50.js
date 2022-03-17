@@ -1,0 +1,1 @@
+import{d}from"./vendor.3a0021aa.js";const a="_grid_1p8kv_1";var t={grid:a};function l({columns:r,rowsHeight:e,style:i,children:s}){return d("div",{className:t.grid,style:{...i,"--_example-grid-cols":r,"--_example-grid-rows-height":e},children:s})}export{l as E};
