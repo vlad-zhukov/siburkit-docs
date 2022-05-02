@@ -1,0 +1,1 @@
+import{S as t,c as e}from"./Popover.module.a0d5a066.js";var r=Object.freeze(Object.defineProperty({__proto__:null,Status:t,get StatusTone(){return e}},Symbol.toStringTag,{value:"Module"}));export{r as _};
