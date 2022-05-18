@@ -1,0 +1,1 @@
+import{b7 as e,b8 as r,b9 as o}from"./index.ee878a4d.js";var n=Object.freeze(Object.defineProperty({__proto__:null,Menu:e,MenuItem:r,Scroller:o},Symbol.toStringTag,{value:"Module"}));const s="@siburkit/menu",u="1.1.1";export{n as _,s as n,u as v};
