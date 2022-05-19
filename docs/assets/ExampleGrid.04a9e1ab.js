@@ -1,1 +1,0 @@
-import{j as t}from"./index.6ebe2b40.js";const a="_grid_tqbng_1";var d={grid:a};function l({columns:r,rowsHeight:e,style:i,children:s}){return t("div",{className:d.grid,style:{...i,"--_example-grid-cols":r,"--_example-grid-rows-height":e},children:s})}export{l as E};

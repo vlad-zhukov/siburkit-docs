@@ -1,0 +1,1 @@
+import{n as e,v as a}from"./package.9ef0f379.js";import{P as m}from"./PackageInfo.8c1f9a09.js";import{a as n}from"./index.e9b62373.js";import"./Columns.cb10ce81.js";function p(o={}){const{wrapper:t}=o.components||{};return t?n(t,{...o,children:n(r,{})}):r();function r(){return n(m,{name:e,version:a})}}export{p as default};
